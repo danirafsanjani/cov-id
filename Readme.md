@@ -1,9 +1,17 @@
-# expo-template-native-base
+<h3 align="center">Tugas Besar Kelompok 6 Mata Kuliah PAB</h3>
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+## How To Run
+```bash
+# Clone this repository
+$ git clone https://github.com/danirafsanjani/cov-id
 
-## Usage
+# Go into the repository
+$ cd cov-id
 
-```sh
-expo init my-app --template expo-template-native-base
+# Install dependencies
+$ npm install
+
+# Run the app
+$ expo start
 ```
+
